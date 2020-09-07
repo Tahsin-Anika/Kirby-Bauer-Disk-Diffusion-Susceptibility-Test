@@ -1,4 +1,4 @@
-<p align="center"><img width="40%" src="Kirby-Bauer Disk Diffusion Susceptibility Test.png" /></p>
+<p align="center"><img width="40%" src="Kirby-Bauer Disk Diffusion Susceptibility Test.jpg" /></p>
 
 
 # This project includes:
